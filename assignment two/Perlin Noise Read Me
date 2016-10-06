@@ -1,0 +1,3 @@
+#Assignment 2, Perlin Noise
+
+This program consists of a series of 5 black squares and 5 white circles being moved by perlin noise on both the X and Y axis in a diagonal fashion. You can change the background to a random colour by clicking the mouse.
