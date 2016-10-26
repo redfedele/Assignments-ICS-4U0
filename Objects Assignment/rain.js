@@ -11,7 +11,7 @@
   function Rain() {
   this.locationX = random(0, width);
   this.velocity = random(3, 5);
-  this.locationY = random(-500, 0);
+  this.locationY = random(-500, -100);
 
   this.fall = function() {
     this.locationY = this.locationY + this.velocity;
