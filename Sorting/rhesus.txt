@@ -1,0 +1,495 @@
+
+
+
+This short play needs rather a long introduction. It has had the bad
+fortune to become a literary problem, and almost all its few readers are
+so much occupied with the question whether it can be the work of
+Euripides--and if not his, whose?--that they seldom allow themselves to
+take it on its merits as a stirring and adventurous piece, not
+particularly profound or subtle, but always full of movement and life
+and possessing at least one or two scenes of great and penetrating
+beauty.
+
+The outlines of the _Rhesus_ Question are these.--The _Rhesus_ appears
+in the MSS. of Euripides; we know from the Athenian Didascaliae, or
+Records of Performances, that Euripides wrote a play of the name; some
+passages in it are quoted by early Alexandrian writers as from "the
+_Rhesus_ of Euripides;" no passage is quoted under any other name. This
+seems about as strong as external evidence need be. Yet the ancient
+introduction to the play mentions that "some think the play spurious,"
+and expresses the odd opinion that "it suggests rather the Sophoclean
+style." Further, it tells us that, besides the present opening scene,
+there were extant two different prologues, one of which was "quite prosy
+and perhaps concocted by the actors." This seems to show that the
+Alexandrian scholars who tried for the first time to collect the
+complete works of Euripides, some two centuries after his death, found
+this play current as "Euripides' _Rhesus_," but that it was credited
+with three different openings and that its style was felt to be somehow
+peculiar.
+
+The peculiarity of style is incontestable. It does not to our judgment
+suggest Sophocles. It suggests a young man imitating Aeschylus, and it
+has a great number of Euripidean expressions. Hermann, who collected
+what he took to be "imitations" of early poets in the _Rhesus_, noted
+only 25 of Sophocles, 38 of Aeschylus, and 84 of Euripides.
+
+Is it, then, the work of a somewhat imitative fourth-century poet,
+naturally influenced by his great forerunners? Hardly: because, with a
+few exceptions, the verse and diction of the _Rhesus_, are markedly
+early in character, the verse severe and smooth, the diction direct and
+rather grandiose, the choral lyrics strictly relevant. In Euripides'
+later years Drama was moving rapidly away from all these things and, as
+far as we can judge, continued so moving after his death. If the
+_Rhesus_ is a post-classical play it can hardly be honest fourth-century
+work: it must be deliberately archaistic, a product of the Alexandrian
+spirit if not actually of the Alexandrian age. This is what Hermann
+believed. But unfortunately it is not a bit more like our fragments of
+Alexandrian tragedy than it is like the _Medea_; and, further, if it is
+an Alexandrian pseudo-classic tragedy, how did it succeed in deceiving
+the Alexandrian critics, detectives specially trained for this kind of
+work?
+
+                   *       *       *       *       *
+
+Let us try quite a different hypothesis, and begin by accepting the
+external evidence as true. The famous critic, Crates, of the second
+century B.C., happens to mention--in excuse of what he took to be a slip
+in the poet's astronomy--that the _Rhesus_ of Euripides was a youthful
+work. Now the earliest dated tragedy of Euripides that we possess is the
+_Alcestis_, B.C. 438, written when he was about forty-six. His style may
+well have been considerably different fifteen or twenty years earlier,
+and must certainly have been much under the influence of Aeschylus. So
+far, so good. Then what of the other difficulties, the three different
+opening scenes and the few passages of late phrasing or technique? One
+obvious explanation suits both. The three different openings pretty
+clearly imply that the play was reproduced more than once after the
+poet's death and adapted by the producer for each occasion. This
+happened to many plays of Euripides, and in one case we even know the
+name of the producer; he was Euripides the Younger, son of the poet.
+Among other things we have reason to believe that he wrote some parts of
+the _Iphigenia in Aulis_. And in this connexion we can hardly help
+noticing that the _Iphigenia in Aulis_, like the _Rhesus_ and like no
+other Greek tragedy, has two alternative openings, one a dull prologue
+and one a lyrical scene in anapaests under the stars. The general style
+of the two plays is utterly different; the _Iphigenia_ is most typically
+late Euripidean; but one would not be surprised to learn that they had
+both passed at some time through the same revising hand.
+
+This hypothesis seems to work well. But one difficulty remains.
+
+We have so far gone on the supposition that Euripides at twenty-five or
+thirty perhaps wrote very differently from Euripides at forty-six, and
+that the manner we call Euripidean is only the manner of his later life.
+There is nothing improbable in this suggestion, but have we any
+evidence? Yes, a very little, and unfortunately it does not say what we
+want. We have some fragments--twenty lines altogether--preserved from
+the _Peliades_, with which Euripides won his first victory in the year
+455, seventeen years before the _Alcestis_, and as far as they go they
+are just in his ordinary manner--a good deal more so, in fact, than much
+of the _Alcestis_ is. Let us face this difficulty.
+
+The ordinary style of Euripides is full, flexible, lucid, antithetic,
+studiously simple in vocabulary and charged with philosophic reflection.
+If we look in his extant remains for any trace of a style, like that of
+the _Rhesus_, which is comparatively terse, rich, romantic, not
+shrinking from rare words and strong colour and generally untinged by
+philosophy, we shall find the nearest approach to it in the _Cyclops_.
+Next to the _Cyclops_ I am not sure what play would come, but the
+_Alcestis_ would not be far off. It has especially several Epic forms
+which cannot be paralleled in tragedy. Now the conjunction of these two
+plays with the _Rhesus_ is significant. The three seem to be three
+earliest of the extant plays; they are also--if we count the
+_Heraclidae_ as mutilated--the three shortest. But, what is more
+important, the _Cyclops_ is not a tragedy but a satyr-play, and the
+_Alcestis_ is a tragedy of a special sort, written to take the place of
+a satyr-play. It is a tragedy with some half grotesque figures and a
+fantastic atmosphere.
+
+This is no place for a close analysis of the diction of the various
+works of Euripides; but taking one rough test, just for what it is
+worth, we may try to count the number of words in each play which are
+not found elsewhere in Euripides. The _Medea_, a central sort of play,
+has in its 1419 lines 103 such words. The _Alcestis_, with 1163 lines,
+has 122; the _Rhesus_, with less than 1000 lines, has 177; the
+_Cyclops_, with only 701 lines, has actually 220. This calculation is
+doubtless slightly inexact: in any case it is worth very little until it
+is carefully analysed. But on the whole it accords with my general
+impression that the _Rhesus_ in its variation from the Euripidean norm
+goes further than the _Alcestis_, and not so far as the _Cyclops_, and
+goes in very much the same direction. I feel in the _Rhesus_ a good deal
+of that curious atmosphere, not exactly comic, but wild and extravagant,
+which the Greeks felt to be suited to the Satyr horde; the atmosphere
+normally breathed by the one-eyed Giant of the cavern on volcanic Aetna,
+or the drunken and garlanded Heracles who wrestles with Death and cracks
+his ribs for him at midnight among the tombs. The whole scene and
+setting of the _Rhesus_; the man-wolf crawling away into the darkness
+and his two enemies presently crawling in out of the same darkness with
+his bloody spoils; the divine Thracian king with his round targe that
+shines by night and his horses whiter than the snow; the panic of the
+watch, the vaunting of the doomed chieftain, the goddess disguised as
+another goddess, the thrilling half-farcical scene where the spy
+Odysseus is actually caught and befools his captors: these things are
+not of course comic, like some incidents in the _Cyclops_. They belong
+to tragedy; but they are near the outside limit of the tragic
+convention, and would perhaps be most at home in a pro-satyric tragedy
+like the _Alcestis_.
+
+In the upshot I see no adequate reason for rejecting the external
+evidence which makes this play a work of Euripides, if we suppose it to
+be an early pro-satyric play which was produced again after the poet's
+death by Euripides the Younger or some contemporary. Most scholars,
+however, prefer to think it simply an archaistic work of the fourth
+century.
+
+On this theory the Alexandrians when looking for the _Rhesus_ of
+Euripides found an anonymous play called _Rhesus_ and accepted it for
+what it was worth. The Prologues mentioned in the argument would perhaps
+belong to other plays of the same name; one, no doubt, to the real play
+of Euripides. The rich and severe style may, for all we know--for direct
+evidence fails us--be the natural mark of some reactionary archaistic
+school about the time of Plato or Aristotle. The same date might well be
+indicated by the great interest our play takes in the Iliad, and by its
+almost "Alexandrian" use of the gods as ornamental machinery. I cannot
+call such a theory improbable; but it really amounts to rejecting the
+external evidence in order to place the _Rhesus_ in a period of tragic
+style of which we happen to know nothing. It is certainly not confirmed
+by the scanty fragments we possess of Theodectes or Chairemon.
+
+And, if one is to venture into more speculative and subjective
+arguments, I find it rather hard to think of any lyric poet except
+Euripides who could have written the Adrasteia chorus or the lines about
+the Nightingale in the Watchers' Song; of any playwright except
+Euripides who would have ended a play of gallant martial adventure with
+the vision of a solitary mother clasping her dead son. There are many
+other passages, too, like the mysterious sobbing in the dark that
+heralds the entry of the wounded Thracian, and the final passing out of
+the army to its certain defeat, which seem to me more like undeveloped
+genius than common imitative mediocrity. If a nameless fourth-century
+poet wrote this play, I think we should have heard more of him.
+
+                   *       *       *       *       *
+
+The story of the play is taken straight from the Doloneia, an Epic
+rhapsody which now takes its place as the Tenth Book of the Iliad, but
+was very likely independent in the time of Euripides (_Rise of the Greek
+Epic_, p. 313 f.). The play seems in one or two points to follow a more
+archaic model than the version in our Homer. (See notes on l. 150 and l.
+175.)
+
+In Rhesus himself--the name is said to be the Thracian form of
+_rex_[1]--we seem to have the traditional divine king of the Thracian
+tribes about Pangaion, seen through the eyes of Greek romance. He is the
+son of the greatest of Rivers and the Muse of the Mountain: she is
+simply "The Muse," otherwise nameless, and we are lost if we try to bind
+her down to the identity of any Greek goddess. Like many Thracian heroes
+Rhesus has a dash of the Sun-god in him, the burning targe, the white
+horses and the splendour. Like them he is a boaster and a deep drinker,
+a child of battle and of song. Like other divine kings he dies in his
+youth and strength, and keeps watch over his people from some "feasting
+presence, full of light," where he lies among the buried silver-veins of
+Pangaion. If the uttermost need comes, doubtless he will wake again.
+When the Athenians began making their dangerous settlements on the coast
+of Thrace--ten thousand settlers were massacred by Rhesus's people about
+465 B.C.: Amphipolis not fully established till 437--they found the
+legend of Rhesus in the air, and eventually they thought it prudent to
+send for his hallowed bones from the Troad, where they were supposed to
+be buried, and give them a tomb in the Athenian colony. Possibly that
+pacified him. And his legend in the mouth of the poets seemed perhaps
+like the story of his own mountaineers, multitudes of strong men, stormy
+and chivalrous, terrible in onset, who somehow in the end melted away
+before the skill and persistent courage of a civilised Greek city.
+
+[Footnote 1: Perdrizet, _Cultes et Mythes de Pang�e_, p. 17.]
+
+
+
+
+RHESUS
+
+
+
+
+CHARACTERS OF THE PLAY
+
+
+HECTOR, _Prince of �lion and General of the Trojan Armies_.
+AEN�AS, _a Trojan Prince_.
+DOLON, _a Trojan_.
+PARIS, _also called_ ALEXANDER, _brother of Hector_.
+RH�SUS, _King of Thrace, son of the River Str[^y]mon and the Muse
+    of the Mountains_.
+A THRACIAN, _the King's charioteer_.
+ODYSSEUS, _a Greek chieftain, famous for craft and daring_.
+DIOM�D�S, _a Greek chieftain, famous for valour_.
+A SHEPHERD.
+
+The Goddess ATH�NA.
+The MUSE OF THE MOUNTAINS.
+
+CHORUS _of Trojan Guards with their_ LEADER.
+_Some_ THRACIANS _with their_ CAPTAIN, _Attendants, &c._
+
+_The date and authorship of the play are unknown; it probably
+belongs to the Fifth Century B.C., and is attributed to Euripides._
+
+
+
+
+                      RHESUS
+
+
+_It is a cloudy but moonlight night on the plain before Troy.         [vv. 1-10]
+    The Trojans and their allies have won a decisive victory and
+    are camping on the open field close to the Greek outposts.
+    The scene is in front of a rude tent or hut that has been set
+    up for_ HECTOR, _the Trojan leader. A watch-fire burns low in
+    front. Far off at the back can be seen rows of watch-fires in
+    the Greek camp. The road to Troy is in front to the left; the
+    road to Mount Ida leads far away to the right._
+
+_All is silence; then a noise outside. Enter tumultuously a band
+    of Trojan Pickets._
+
+                  VARIOUS VOICES.
+
+(_The dash -- in these passages indicates a new speaker._)
+
+    On to the Prince's quarters!--Ho!
+    Who is awake? What man-at-arms,
+    Or squire or groom?--Let Hector know
+        New rumour of alarms
+    From sentinels who stand at mark
+    The four long watches of the dark,
+    While others sleep.--Uplift thine head,
+    O Hector! On thine elbow rise,
+    Unhood the eagle of thine eyes,
+        Up from thy leaf-strewn bed!--
+
+    Lord Hector!
+
+        HECTOR (_coming out from the tent_).                         [vv. 11-28]
+
+                Who goes there? Who cries?
+    A friend? The watchword! . . . By what right
+    Do men come prowling in the night
+    Across my quarters? Come! Speak out.
+
+                      LEADER.
+
+    A picket, Lord.
+
+                      HECTOR.
+
+                      In such a rout?
+
+                      LEADER.
+
+    Be not afraid, Lord.
+
+                      HECTOR.
+
+                        I am not.
+    Is there an ambush? No? Then what,
+    In God's name, brings you from your post
+        With no clear tale to speak,
+    To spread this turmoil through a host
+    That lies in harness--do ye all
+    Know nothing?--out against the wall
+        And gateways of the Greek?
+
+      CHORUS (_various voices confusedly_).      [_Strophe._
+
+    To arms! To arms, Lord Hector!--Send
+        First where the allied armies lie,
+    Bid them draw sword and make an end
+        Of sleep.--Let someone fly
+    And get the horses' armour on!--
+    Who goes with me to Pantho�s' son?--
+Who's for Sarp�don and the Lycians?--None                            [vv. 29-54]
+      Hath seen the priest go by?--
+  Ho, Captain of the Runners, ho!--
+  Ho, Trojans of the horn�d bow!
+      String, string! For need is nigh.
+
+                      HECTOR.
+
+  Ha, silence there! . . .
+                      First words of fear,
+      Then comfort. All an empty swell!
+  It seems the lash of trembling Pan
+  Hath caught you. Speak, if speak ye can.
+  What tidings? Not a word is clear
+      Of the whole tale ye tell.
+
+        [_The turmoil subsides, the_ LEADER _comes forward_.
+
+                      LEADER.                    [_Antistr._
+
+  Great beacons in the Argive line
+    Have burned, my chief, through half the night.
+  The shipyard timbers seemed to shine.
+    Then, clear against the light,
+  Toward Agamemnon's tent the whole
+  Army in tumult seemed to roll,
+As stirred by some strange voice, shoal after shoal.
+    A night of such discord
+  Was never seen. And we, in dread
+  What such things boded, turned and sped
+    Hither; dost blame us, Lord?
+
+       HECTOR (_after a moment of thought_).
+
+No! Welcome, friend, with all thy tale of fear!
+It shows they mean to fly: they mean to clear
+Decks in the dark and so delude my sight . . .                       [vv. 55-78]
+I like that beacon-burning in the night.
+  O Zeus above, who checked my conquering way,
+Who baulked the hungry lion of his prey
+Or ever I could sweep my country clear
+Of these despoilers, dost thou hate my spear?
+Had but the sun's bright arrows failed me not,
+I ne'er had rested till the ships were hot
+With fire, and through the tents upon the plain
+This bloody hand had passed and passed again!
+Myself, I longed to try the battle-cast
+By night, and use God's vantage to the last,
+But sage and prophet, learned in the way
+Of seercraft, bade me wait for dawn of day,
+And then--leave no Greek living in the land.
+They wait not, they, for what my prophets planned
+So sagely. In the dark a runaway
+Beats a pursuer.
+                  Through our whole array
+Send runners! Bid them shake off sleep and wait
+Ready with shield and spear. 'Tis not too late
+To catch them as they climb on board, and slash
+Their crouching shoulders till the gangways splash
+With blood, or teach them, fettered leg and arm,
+To dig the stiff clods of some Trojan farm.
+
+                      LEADER.
+
+My Prince, thy words run fast. Nor thou nor I
+Have knowledge yet that the Greeks mean to fly.
+
+                      HECTOR.
+
+What makes them light their beacons? Tell me, what?
+
+                      LEADER.                                        [vv. 79-90]
+
+God knows! And, for my part, I like it not.
+
+                      HECTOR.
+
+What, feared? Thou wouldst be feared of everything!
+
+                      LEADER.
+
+They never lit such light before, O King.
+
+                      HECTOR.
+
+They never fled, man, in such wild dismay.
+
+               LEADER (_yielding_).
+
+'Twas all thy work.--Judge thou, and we obey.
+
+                      HECTOR.
+
+My word is simple. Arm and face the foe.
+
+                             [_A sound of marching without._
+
+                      LEADER.
+
+Who comes? Aeneas, and in haste, as though
+Fraught with some sudden tiding of the night.
+
+                  _Enter_ AENEAS.
+
+                      AENEAS.
+
+Hector, what means it? Watchers in affright
+Who gather shouting at thy doors, and then
+Hold midnight council, shaking all our men?
+
+                      HECTOR.
+
+To arms, Aeneas! Arm from head to heel!
+
+                      AENEAS.                                       [vv. 91-109]
+
+What is it? Tidings? Doth the Argive steal
+Some march, some ambush in the day's eclipse?
+
+                      HECTOR.
+
+'Tis flight, man! They are marching to the ships.
+
+                      AENEAS.
+
+How know'st thou?--Have we proof that it is flight?
+
+                      HECTOR.
+
+They are burning beacon-fires the livelong night.
+They never mean to wait till dawn. Behind
+That screen of light they are climbing in the blind
+Dark to their ships--unmooring from our coast.
+
+    AENEAS (_looking toward the distant fires:
+                  after a pause_).
+
+God guide them!--Why then do you arm the host?
+
+                      HECTOR.
+
+I mean to lame them in their climbing, I
+And my good spear, and break them as they fly.
+Black shame it were, and folly worse than shame,
+To let these spoilers go the road they came
+Unpunished, when God gives them to us here.
+
+                      AENEAS.
+
+Brother, I would thy wit were like thy spear!
+But Nature wills not one man should be wise
+In all things; each must seek his separate prize.
+And thine is battle pure. There comes this word
+Of beacons, on the touch thy soul is stirred:                      [vv. 110-136]
+"They fly! Out horse and chariots!"--Out withal
+Past stake and trench, while night hangs like a pall!
+Say, when we cross that coiling depth of dyke,
+We find the foe not fled, but turned to strike;
+One check there, and all hope of good return
+Is gone. How can our men, returning, learn
+The tricks of the palisade? The chariots how
+Keep to the bridges on the trenches' brow,
+Save with jammed wheels and broken axles? Aye,
+And say thou conquer: other wars yet lie
+Before thee. Peleus' son, for all his ire,
+Will never let thee touch the ships with fire
+Or pounce on his Greek lambs. The man will bide
+No wrong and standeth on a tower of pride.
+  Nay, brother, let the army, head on shield,
+Sleep off its long day's labour in the field:
+Then, send a spy; find someone who will dare
+Creep to yon Argive camp. Then, if 'tis clear
+They mean flight, on and smite them as they fly.
+Else, if the beacons hide some strategy,
+The spy will read it out, and we can call
+A council.--Thus speak I, my general.
+
+                      CHORUS.                    [_Strophe._
+
+    'Tis good! 'Tis wisdom! Prince, give heed
+    And change the word thy passion gave.
+    No soldier loveth, in his need,
+    The glory of a chief too brave.
+    A spy is best: a spy, to learn
+    For what strange work those beacons burn
+    All night beside the guarded wave.
+
+
